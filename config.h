@@ -43,3 +43,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define QMK_KEYS_PER_SCAN 40
 #define USB_POLLING_INTERVAL_MS 1
 #define FORCE_NKRO
+#define TAPPING_TERM 175
+#define COMBO_COUNT 1
