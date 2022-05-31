@@ -34,8 +34,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_COLS 10
 
 /* key matrix pins */
-#define MATRIX_ROW_PINS { D3, E6, B4, B5 }
-#define MATRIX_COL_PINS {D0,D1,F4,F5,F6,F7,B1,B3,B2,B6}  
+#define MATRIX_ROW_PINS { E6, D7, D0, D4 }
+#define MATRIX_COL_PINS {F4,F5,F6,F7,B1,B3,B2,B6,B5,B4}  
 #define UNUSED_PINS
 
 /* COL2ROW or ROW2COL */
@@ -43,5 +43,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define QMK_KEYS_PER_SCAN 40
 #define USB_POLLING_INTERVAL_MS 1
 #define FORCE_NKRO
-#define TAPPING_TERM 175
-#define COMBO_COUNT 1
+#define AUDIO_PIN C6
+#define RGB_DI_PIN D3
+#define RGBLED_NUM 0
+#define RGBLIGHT_DEFAULT_SAT 12
