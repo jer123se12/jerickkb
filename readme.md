@@ -1,6 +1,8 @@
 # jerickkb
 this is jerick's first keyboard!
 
+[link to 3d model](https://cad.onshape.com/documents/3e659bc1ec258d39c41bef2a/w/ca20a009caa1a73094be2e16/e/844abdcb8c6c0b7e9a9535bb?renderMode=0&uiState=62a4b3cb4ab0eb4b7fb1a9aa)
+
 # layout
 |layer 0||||||||||
 |---|---|---|---|---|---|---|---|---|---|
