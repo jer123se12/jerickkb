@@ -9,4 +9,4 @@ this is jerick's first keyboard!
 - steno mode!
 - relatively ergonomic layout!
 # photos
-![]()
+![](182acef3-1ef7-42c3-bb94-ee652038348f.jpeg)
