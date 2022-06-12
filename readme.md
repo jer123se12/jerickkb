@@ -32,7 +32,7 @@ this is jerick's first keyboard!
 |XXXXXXX| XXXXXXX| XXXXXXX| XXXXXXX| XXXXXXX| XXXXXXX| XXXXXXX| XXXXXXX| XXXXXXX| XXXXXXX|
 |XXXXXXX| XXXXXXX| STN_A|   STN_O|   XXXXXXX| STN_E|   STN_U|   XXXXXXX| XXXXXXX| DF(0)|
 
-|layer 3||||||||||
+|layer 4||||||||||
 |---|---|---|---|---|---|---|---|---|---|
 |F1|F2|F3|F4|F5|F6|F7|F8|F9|F10| 
 |F11|F12||||||||| 
