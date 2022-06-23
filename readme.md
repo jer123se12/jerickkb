@@ -1,8 +1,19 @@
 # jerickkb
-this is jerick's first keyboard!
+this is jerick's first handwired keyboard!
 powered by [QMK!](https://github.com/qmk/qmk_firmware)
 
 [link to 3d model](https://cad.onshape.com/documents/3e659bc1ec258d39c41bef2a/w/ca20a009caa1a73094be2e16/e/844abdcb8c6c0b7e9a9535bb?renderMode=0&uiState=62a4b3cb4ab0eb4b7fb1a9aa)
+
+# ingredients
+
+1     x arduino promicro  
+40    x gateron yellows  
+40    x l14148 diodes  
+1     x random speaker i ripped from an old knok-off game console  
+some  x 3d printed houseing  
+some  x wires  
+some  x solder  
+much  x hot glue  
 
 # layout
 |layer 0||||||||||
